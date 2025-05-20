@@ -2,6 +2,10 @@
 
 **MVTD** (Maritime Visual Tracking Dataset) is a benchmark dataset and codebase designed to support the **development**, **training**, and **evaluation** of visual tracking models in challenging **maritime environments**.
 
+
+![Block_Diagram](assets/Block_Diagram.png)
+
+
 This repository includes:
 - 📦 Tools for model training and testing  
 - 🤖 Pretrained model weights  
