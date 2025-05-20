@@ -1,0 +1,1 @@
+python tracking/test.py hiptrack hiptrack_got --dataset got10k_test --threads 8 --num_gpus 1

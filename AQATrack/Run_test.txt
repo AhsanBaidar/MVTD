@@ -1,0 +1,1 @@
+python tracking/test.py aqatrack AQATrack-ep100-got-256 --dataset got10k_test

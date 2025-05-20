@@ -1,0 +1,2 @@
+python tracking/test.py artrack_seq artrack_seq_256_got --dataset got10k_test --threads 2 --num_gpus 1
+

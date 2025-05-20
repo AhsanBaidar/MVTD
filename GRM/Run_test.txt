@@ -1,0 +1,1 @@
+python tracking/test.py --param vitb_256_got_ep100 --dataset got10k_test

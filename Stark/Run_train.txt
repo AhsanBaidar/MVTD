@@ -1,0 +1,1 @@
+python tracking/train.py --script stark_s --config baseline_got10k_only --save_dir . --mode single

@@ -1,0 +1,2 @@
+python pytracking/run_tracker.py et_tracker et_tracker --dataset got10k_test
+

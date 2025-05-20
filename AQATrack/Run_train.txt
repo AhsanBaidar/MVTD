@@ -1,0 +1,1 @@
+python tracking/train_my.py --script aqatrack --config AQATrack-ep100-got-256 --mode single

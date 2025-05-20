@@ -1,0 +1,1 @@
+python tracking/train.py --script grm --config vitb_256_got_ep100 --save_dir . --mode single

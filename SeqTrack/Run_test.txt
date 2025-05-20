@@ -1,0 +1,1 @@
+python tracking/test.py seqtrack seqtrack_b256_got --dataset_name got10k_test

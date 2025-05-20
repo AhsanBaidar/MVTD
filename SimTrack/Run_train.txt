@@ -1,0 +1,2 @@
+python3 tracking/train.py --script simtrack --config baseline_got10k_only --save . --mode single
+

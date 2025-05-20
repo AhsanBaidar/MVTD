@@ -1,0 +1,1 @@
+python ltr/run_training.py slt_transt slt_transt

@@ -1,0 +1,1 @@
+python tracking/train.py --script odtrack --config baseline_got --save_dir . --mode single

@@ -1,0 +1,1 @@
+python tracking/test.py odtrack baseline_got --dataset got10k_test --runid 100 --threads 8 --num_gpus 1

@@ -1,0 +1,1 @@
+python tracking/train.py --script artrackv2_seq --config artrackv2_seq_256_got --save_dir . --mode single

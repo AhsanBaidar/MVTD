@@ -1,0 +1,1 @@
+python tracking/test.py mcitrack mcitrack_b224_got --dataset got10k_test --threads 2

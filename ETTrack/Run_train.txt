@@ -1,0 +1,2 @@
+python ltr/run_training.py et_tracker et_tracker
+

@@ -1,0 +1,2 @@
+python tracking/test.py simtrack baseline_got10k_only --dataset got10k_test --threads 1
+

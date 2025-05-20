@@ -1,0 +1,1 @@
+python pytracking/run_tracker.py slt_transt slt_transt --dataset_name got10k_test

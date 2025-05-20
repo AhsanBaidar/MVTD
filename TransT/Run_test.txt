@@ -1,0 +1,1 @@
+python pytracking/run_tracker.py transt transt50 --dataset got10k_test
