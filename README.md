@@ -108,14 +108,15 @@ You can modify the script to:
 
 If you use **MVTD** in your work, please cite:
 
-    @misc{mvtd2025,
-      author = {Ahsan Baidar},
-      title = {MVTD: Maritime Visual Tracking Dataset},
+    @article{bakht2025mvtd,
+      author = {Bakht, Ahsan Baidar and Din, Muhayy Ud and Javed, Sajid and Hussain, Irfan},
+      title = {MVTD: A Benchmark Dataset for Maritime Visual Object Tracking},
       year = {2025},
-      url = {https://github.com/AhsanBaidar/MVTD}
+      journal = {arXiv preprint arXiv:2506.02866}
     }
 
 ---
+
 
 ## 💬 Contact
 
