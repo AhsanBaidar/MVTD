@@ -118,10 +118,9 @@ If you use **MVTD** in your work, please cite:
 ---
 
 
-## 💬 Contact
+## Acknowledgments
 
-Questions or suggestions?
+This work is based on various open-source visual tracking algorithms. We gratefully acknowledge the original authors and communities for their valuable contributions.
 
-- 💡 Open an issue on GitHub  
 
 ---
