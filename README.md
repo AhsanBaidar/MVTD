@@ -40,7 +40,7 @@ Maritime tracking involves challenges such as:
 
 ## 📂 Dataset Setup
 
-You need to put your own images in the folders below [Our dataset MVTD](https://huggingface.co/datasets/AhsanBB/MVTD/tree/main):  
+You need to put your own images in the folders below [Our dataset MVTD](https://huggingface.co/datasets/AhsanBB/Maritime_Visual_Tracking_Dataset_MVTD/tree/main):  
 The folder and annotation structure of MVTD follows the widely adopted GOT-10k dataset format,  
 organizing training videos into subfolders containing frames and annotation files:
 
