@@ -81,7 +81,7 @@ organizing training videos into subfolders containing frames and annotation file
 ## 📥 Pretrained Weights
 
 Download the pretrained weights and place them respective folders as inside the link:  
-👉 [**Download Weights Here**](https://kuacae-my.sharepoint.com/:f:/g/personal/ahsan_bakht_ku_ac_ae/IgD3c4aIu83XQazIPFglANf8AVv_h1J8etNnaGo5PaCvfis?e=UHUr2R)  
+👉 [**Download Weights Here**](https://kuacae-my.sharepoint.com/:f:/g/personal/ahsan_bakht_ku_ac_ae/IgD3c4aIu83XQazIPFglANf8AU9Px-KcgbrckZtNrD1kpqI?e=ePfoSr)  
 
 Note: For SLTTrack and TransT trackers, please place the pretrained weight files inside the directory:
 pytracking/Networks/weight_file/
