@@ -1,6 +1,27 @@
 # 🌊 MVTD: Maritime Visual Tracking Dataset
 
-**MVTD** (Maritime Visual Tracking Dataset) is a benchmark dataset and codebase designed to support the **development**, **training**, and **evaluation** of visual tracking models in challenging **maritime environments**.
+**MVTD** (Maritime Visual Tracking Dataset) is a benchmark dataset and codebase designed to support the **development**, **training**, and **evaluation** of visual tracking models in challenging **maritime environments**. “A large scale maritime visual object tracking dataset and benchmark,” published in Pattern Recognition, Volume 183 (2027), Article 115193. 📄 Paper (Open Access): https://doi.org/10.1016/j.patcog.2026.115193
+
+---
+
+## 📚 Citation
+
+If you use **MVTD** in your work, please cite:
+
+    @article{BAKHT2027115193,
+    title = {A large scale maritime visual object tracking dataset and benchmark},
+    journal = {Pattern Recognition},
+    volume = {183},
+    pages = {115193},
+    year = {2027},
+    issn = {0031-3203},
+    doi = {https://doi.org/10.1016/j.patcog.2026.115193},
+    url = {https://www.sciencedirect.com/science/article/pii/S0031320326021564},
+    author = {Ahsan Baidar Bakht and Muhayy {Ud Din} and Sajid Javed and Irfan Hussain}
+    }
+
+---
+
 
 
 ![Block_Diagram](assets/Block_Diagram.png)
@@ -101,21 +122,6 @@ Use the included shell script to run training or testing:
 
 You can modify the script to:
 - Switch between training and testing  
----
-
-
-## 📚 Citation
-
-If you use **MVTD** in your work, please cite:
-
-    @article{bakht2025mvtd,
-      author = {Bakht, Ahsan Baidar and Din, Muhayy Ud and Javed, Sajid and Hussain, Irfan},
-      title = {MVTD: A Benchmark Dataset for Maritime Visual Object Tracking},
-      year = {2025},
-      journal = {arXiv preprint arXiv:2506.02866}
-    }
-
----
 
 
 ## Acknowledgments
